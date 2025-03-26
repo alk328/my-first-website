@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+    color: maroon;
+        font-family: "Sour Gummy", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <400>;
+        font-style: normal;
+        font-variation-settings:
+          "wdth" 100;
+}
+
+.bio{
+    background-color: seashell;
+    display: flex;
+    .left{
+        width: 80%;
+    }
+    .right{
+        
+    }
+}
